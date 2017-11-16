@@ -1,3 +1,8 @@
+"""
+Project : Captcha maker
+Author : Ajeet
+Date : 16/11/2017
+"""
 import random
 from PIL import Image
 from PIL import ImageFont
